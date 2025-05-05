@@ -1,4 +1,3 @@
 Nome: Jhonnattan
-Idade: 20 Anos
-Cidade: Jucurutu/Caico
+Cidade: Jucurutu-RN
 Estudante
