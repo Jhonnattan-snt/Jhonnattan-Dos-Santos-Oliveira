@@ -9,9 +9,8 @@
 <p align="left">
   <img title="HTML5" alt="HTML" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="JavaScript" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img title="Python" alt="Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="JavaScript" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascriptoriginal.svg">
-
 </p>
 
 ## 📊 GitHub Stats
@@ -27,4 +26,3 @@
 ---
 
 ⭐️ Obrigado por visitar meu perfil!
-
